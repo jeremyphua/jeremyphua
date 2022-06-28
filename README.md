@@ -15,3 +15,4 @@
 
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyphua&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+![Alt Text](https://tenor.com/view/programming-gif-24916992.gif)
