@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **everything**!
 
-- ⚡ Fun fact **I like mechanical keyboards!**
+- ⚡ Fun fact - **I like mechanical keyboards!**
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a149d760600c7e9e5c11cb70b1a0f9db47f7ba432037fb17dd8437d10fa80b63/68747470733a2f2f74656e6f722e636f6d2f766965772f62726f6f6b6c796e39392d6e6f6963652d6a616b652d706572616c74612d616e64792d73616d626572672d6e6963652d6769662d31343233343831392e676966">
 
