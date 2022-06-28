@@ -1,9 +1,14 @@
+![MasterHead](https://t3.ftcdn.net/jpg/02/85/47/76/360_F_285477653_wWjCYgsDoShyZpn40xQWDp5vazcGN079.jpg)
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate developer from Singapore</h3>
 
 - 🔭 I’m currently working on **a password manager**
 
 - 🌱 I’m currently learning **everything**!
+
+- ⚡ Fun fact **I like mechanical keyboards!**
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a149d760600c7e9e5c11cb70b1a0f9db47f7ba432037fb17dd8437d10fa80b63/68747470733a2f2f74656e6f722e636f6d2f766965772f62726f6f6b6c796e39392d6e6f6963652d6a616b652d706572616c74612d616e64792d73616d626572672d6e6963652d6769662d31343233343831392e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,5 +19,3 @@
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyphua&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![Alt Text](https://tenor.com/view/brooklyn99-noice-jake-peralta-andy-samberg-nice-gif-14234819.gif)
