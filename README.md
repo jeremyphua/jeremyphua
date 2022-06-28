@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">A passionate developer from Singapore</h3>
 
-- 🔭 I’m currently working on **a password manager**
-
 - 🌱 I’m currently learning **everything**!
 
 - ⚡ Fun fact **I like mechanical keyboards!**
